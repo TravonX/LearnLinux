@@ -1,0 +1,11 @@
+## Before running the ./index.sh 
+## make sure to install  python and a python  package called figlet
+
+ ## [ sudo apt install python3] 
+
+## then do this 
+
+## [ sudo apt   install figlet ]
+
+## after that is done then you can run the bash script
+## happy learning

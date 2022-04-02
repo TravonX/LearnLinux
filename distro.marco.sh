@@ -5,7 +5,7 @@
 #
 # Version 0.5 (Test)
 #
-# Author: Tra Von <email_address>
+# Author: Tra Von <travonx3@gmail.com>
 #
 # Description
 # ------------

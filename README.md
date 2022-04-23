@@ -7,10 +7,10 @@ Learning Linux from the CLI is amazing because linux was ment to be CLI based
 ## 🖥 Screenshots
 
 <div>
-  <img src="https://github.com/TravonX/LearnLinux/blob/main/first.png"  width="450px"alt="https://github.com/TravonX/LearnLinux/blob/main/first.png">
-  <img src="https://github.com/TravonX/LearnLinux/blob/main/second.png" width="450px" alt="https://github.com/TravonX/LearnLinux/blob/main/second.png">
-  <img src="https://github.com/TravonX/LearnLinux/blob/main/third.png" width="450px" alt="https://github.com/TravonX/LearnLinux/blob/main/third.png">
-  <img src="https://github.com/TravonX/LearnLinux/blob/main/forth.png" width="450px" alt="https://github.com/TravonX/LearnLinux/blob/main/forth.png">
+  <img src="https://github.com/TravonX/LearnLinux/blob/main/first.png"  width="460px"alt="https://github.com/TravonX/LearnLinux/blob/main/first.png">
+  <img src="https://github.com/TravonX/LearnLinux/blob/main/second.png" width="460px" alt="https://github.com/TravonX/LearnLinux/blob/main/second.png">
+  <img src="https://github.com/TravonX/LearnLinux/blob/main/third.png" width="460px" alt="https://github.com/TravonX/LearnLinux/blob/main/third.png">
+  <img src="https://github.com/TravonX/LearnLinux/blob/main/forth.png" width="460px" alt="https://github.com/TravonX/LearnLinux/blob/main/forth.png">
   </div>
 
 ## 🔬 Technologies Used 

@@ -17,3 +17,8 @@ Learning Linux from the CLI is amazing because linux was ment to be CLI based
 <center><h2 align="center">This project was written entirely on bash</h2></center>
 
 ![skills](https://img.shields.io/badge/bash-green)
+
+
+## 📄 License
+Copyright © 2022 TravonX<br/>
+Licensed under GPL-3.0 Licence.

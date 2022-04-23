@@ -7,7 +7,7 @@ Learning Linux from the CLI is amazing because linux was ment to be CLI based
 ## 🖥 Screenshots
 
 <div>
-  <img src="https://github.com/TravonX/LearnLinux/blob/main/first.png"  width="80px"alt="https://github.com/TravonX/LearnLinux/blob/main/first.png">
+  <img src="https://github.com/TravonX/LearnLinux/blob/main/first.png"  width="100%"alt="https://github.com/TravonX/LearnLinux/blob/main/first.png">
   </div>
 
 ## 🔬 Technologies Used 
